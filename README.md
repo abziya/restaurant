@@ -13,6 +13,3 @@ A terminal-based restaurant management simulation program written in C. This pro
 * **Billing & Payments**: Itemized receipts including dish price and service fees.
 * **Staff Management**: Protected by a secure PIN interface (`1918`).
 * **Interactive Day Flow**: Step-by-step confirmation prompts allowing management of multiple clients sequentially until ending the business day.
-
----
-
