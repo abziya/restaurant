@@ -16,16 +16,3 @@ A terminal-based restaurant management simulation program written in C. This pro
 
 ---
 
-## How to Compile and Run
-
-1. Make sure you have a C compiler installed (such as `gcc`).
-2. Open your terminal or command prompt and compile the program:
-```bash
-gcc restaurant.c -o restaurant
-
-```
-
-
-3. Run the executable:
-* **Linux/macOS:** `./restaurant`
-* **Windows:** `restaurant.exe`
